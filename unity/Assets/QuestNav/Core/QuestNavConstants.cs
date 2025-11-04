@@ -31,7 +31,7 @@ namespace QuestNav.Core
             /// <summary>
             /// Default team number when none is provided
             /// </summary>
-            public const int DEFAULT_TEAM_NUMBER = 9999;
+            public const int DEFAULT_TEAM_NUMBER = 4131;
         }
 
         /// <summary>
